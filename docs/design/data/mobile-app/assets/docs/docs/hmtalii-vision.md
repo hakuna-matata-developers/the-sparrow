@@ -1,4 +1,4 @@
-# H.MTALII Vision (Renamed: THE SPARROW)
+so# H.MTALII Vision (Renamed: THE SPARROW)
 
 H.MTALII, now known as THE SPARROW, is a safari companion and wildlife
 learning application built for Africa.
@@ -148,3 +148,59 @@ This page gives the app a living heartbeat.
 - Original name: H.MTALII
 - Current working name: THE SPARROW
 - Name change does NOT change the vision or features
+---
+
+## 13. Quiz & Games
+
+- Wildlife quizzes
+- Bird quizzes
+- Park-based questions
+- Fun and educational tone
+- Offline-friendly
+- Progress tracking
+
+---
+
+## 14. RAFIKI – Nature Chatbot
+
+RAFIKI is a friendly in-app chatbot that acts as a virtual guide.
+
+Functions:
+- Answer wildlife and bird questions
+- Explain animals in simple language
+- Provide fun facts and jokes
+- Help users navigate the app
+- Support learning and curiosity
+
+RAFIKI reflects the voice and personality of H.MTALII.
+
+---
+
+## 15. User Profile
+
+Each user has a profile that includes:
+- Name and optional photo
+- Language preference
+- Favorites and bookmarks
+- Quiz progress
+- Safari journal ownership
+- Role (tourist, guide, student)
+
+---
+
+## 16. Navigation Structure (Drawer-Based)
+
+The app uses a navigation drawer for main sections:
+
+- Home
+- Animals
+- Birds
+- Parks
+- Friends of Nature
+- Quiz & Games
+- Safari Journal
+- RAFIKI Chatbot
+- Offline Downloads
+- Profile
+- Settings
+- About H.MTALII / THE SPARROW
